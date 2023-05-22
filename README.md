@@ -1,5 +1,5 @@
 # FlattenDoc
-A Flattening Tool for InDesign, which is used before exporting.
+A Flattening Tool for InDesign
 Put simply, its an overengineered JPEG Exporter/Importer designed to give a brute force flatten solution to indesign
 
 FlattenDoc is a powerful tool that enhances your workflow with Adobe InDesign by providing an efficient way to flatten your documents. in most cases this is used before exporting as a PDF.
