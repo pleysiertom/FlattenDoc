@@ -31,4 +31,7 @@ Fine Text Rendering is an option to ensure text is flattened properly, due to In
 Important Note on running the script multiple times on one document:
 if you need to run the script twice, it needs to unhide all layers within the document, but in many cases people do not want certain layers to be shown, in order to get around this, naming a layer "Hide" in any way will hide the layer from the script, other names include "Revision", "Dont Flatten" and more will also work, if you have any names to add, please let me know and I will be more than happy to add them :)
 
+Also if you do you want an Object within any layer to show within the flatten, you need to toggle the visability of said object, not the Layer that they are in
+Layers are like rooms, with objects that you can hide. The script opens the door to each room aslong as they are not named in a matter that prevents the script from doing so. if you want to hide an object within that room, you need to toggle that individual objects visability
+
 If there is any problems, please let me know! and I hope you enjoy!
